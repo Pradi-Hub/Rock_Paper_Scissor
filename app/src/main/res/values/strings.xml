@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rock Paper Scissor</string>
+    <string name="instructions">
+        Rules:-\n
+        1. Rock wins over Scissor.\n
+        2. Paper wins over Rock.\n
+        3. Scissor wins over Paper.\n\n
+        Winner:-\n
+        Whoever collects all three stars\n
+        first will be the winner\n\n
+
+        Best of Luck!\n
+    </string>
+    <string name="player_name_hidden1">Player: %s</string>
+    <string name="player_name_hidden2">Player: %s</string>
+</resources>
