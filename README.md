@@ -1,6 +1,6 @@
 <h1>
 Rock Paper Scissor</h1>
-
+<img align="right" alt="giphy" width="100" src="/app/src/main/res/drawable/rock_paper_scissor.jpg">
 The Rock Paper Scissor game app is a classic and entertaining game that brings the age-old hand game to your fingertips. It offers a fun and interactive way to challenge your friends or play against the computer in a battle of wits and strategy.
 <br>
 <h2>Features:</h2>
