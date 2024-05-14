@@ -23,7 +23,7 @@ The Rock Paper Scissor game app is a classic and entertaining game that brings t
 6.	Whoever collects all three stars first will be the winner.
 
 
-## Screenshots
+## Screenshots of app UI
 
 <div style="display:flex;">
   <p align="center">
